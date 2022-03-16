@@ -1,0 +1,4 @@
+<launch>
+<node pkg="aeb_control" type="aeb_control_node" name="aeb_control_node1"/>
+<node pkg="aeb_control" type="aeb_control_pub_node" name="aeb_control_pub_node1"/>
+</launch>
